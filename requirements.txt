@@ -1,5 +1,5 @@
 colorama
 requests
 asyncio
-firebase-admin
+git+https://github.com/firebase/firebase-admin-python
 python-dotenv
